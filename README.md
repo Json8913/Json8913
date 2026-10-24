@@ -1,26 +1,34 @@
 # Jason Santos Ritchie
 
-Cybersecurity undergraduate at Western Sydney University, interested in security monitoring, SOC operations, and incident response. I’m building practical projects around network visibility, defensive controls, and Linux security.
+Cybersecurity undergraduate at Western Sydney University in Sydney, Australia, focused on blue-team security operations and incident response. I build small, safety-scoped projects for network visibility, alert triage, and Linux security.
 
 ## Skills and study
 
-- Python, networking, Linux, Wireshark, and packet analysis
-- Incident response, digital forensics, and security risk management
+- Python, Bash, Linux, networking, Wireshark, and Scapy
+- Security monitoring, incident response, digital forensics, and risk management
 - Bachelor of Cyber Security and Behaviour — Western Sydney University
 
-## Projects
+## Selected projects
 
-| Project | Current stage |
+| Project | What it demonstrates |
 |---|---|
-| [Port Scanner](https://github.com/Json8913/port-scanner) | Initial prototype; loopback check passed |
-| [PCAP Traffic Analyzer](https://github.com/Json8913/pcap-traffic-analyzer) | Initial prototype; synthetic capture checked |
-| [Firewall Simulator](https://github.com/Json8913/firewall-simulator) | Initial prototype; sample decisions checked |
-| [Ubuntu Server Home Lab](https://github.com/Json8913/ubuntu-homelab-security) | Read-only check script; syntax checked |
-| [Lab Intrusion Detection System](https://github.com/Json8913/lab-ids) | Initial prototype; synthetic alert checked |
+| [Lab IDS](https://github.com/Json8913/lab-ids) | Offline SYN-scan detection, synthetic PCAPs, and an alert triage playbook |
+| [PCAP Traffic Analyzer](https://github.com/Json8913/pcap-traffic-analyzer) | Offline packet summaries and DNS visibility |
+| [Ubuntu Server Home Lab](https://github.com/Json8913/ubuntu-homelab-security) | Read-only Linux baseline checks and documented limits |
+| [Firewall Simulator](https://github.com/Json8913/firewall-simulator) | Ordered rules, default-deny behavior, and auditable decisions |
+| [Port Scanner](https://github.com/Json8913/port-scanner) | Scope-limited TCP scanning for loopback and private lab addresses |
 
-## Certifications and courses
+## Currently learning
 
-Coursework covers cyber incident response, digital forensics, and security risk management. I’ll add certifications here as I complete them.
+Alert triage, Linux service exposure, and documenting investigation decisions.
+
+## Next up
+
+Add a Sigma detection rule with synthetic authentication logs and document how I validate it.
+
+## Coursework
+
+Coursework includes cyber incident response, digital forensics, and security risk management. I’ll list certifications here as I complete them.
 
 ## Links
 
