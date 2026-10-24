@@ -12,11 +12,11 @@ Cybersecurity undergraduate at Western Sydney University, interested in security
 
 | Project | Current stage |
 |---|---|
-| [Port Scanner](https://github.com/Json8913/port-scanner) | Initial prototype |
-| [PCAP Traffic Analyzer](https://github.com/Json8913/pcap-traffic-analyzer) | Initial prototype |
-| [Firewall Simulator](https://github.com/Json8913/firewall-simulator) | Initial prototype |
-| [Ubuntu Server Home Lab](https://github.com/Json8913/ubuntu-homelab-security) | Initial notes and read-only check |
-| [Lab Intrusion Detection System](https://github.com/Json8913/lab-ids) | Initial prototype |
+| [Port Scanner](https://github.com/Json8913/port-scanner) | Initial prototype; loopback check passed |
+| [PCAP Traffic Analyzer](https://github.com/Json8913/pcap-traffic-analyzer) | Initial prototype; synthetic capture checked |
+| [Firewall Simulator](https://github.com/Json8913/firewall-simulator) | Initial prototype; sample decisions checked |
+| [Ubuntu Server Home Lab](https://github.com/Json8913/ubuntu-homelab-security) | Read-only check script; syntax checked |
+| [Lab Intrusion Detection System](https://github.com/Json8913/lab-ids) | Initial prototype; synthetic alert checked |
 
 ## Certifications and courses
 
