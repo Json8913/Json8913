@@ -12,6 +12,7 @@ Cybersecurity undergraduate at Western Sydney University in Sydney, Australia, f
 
 | Project | What it demonstrates |
 |---|---|
+| [PhishGuard](phishguard/) | Browser-based email phishing risk checks for headers, links, and message cues |
 | [Lab IDS](https://github.com/Json8913/lab-ids) | Offline SYN-scan detection, synthetic PCAPs, and an alert triage playbook |
 | [PCAP Traffic Analyzer](https://github.com/Json8913/pcap-traffic-analyzer) | Offline packet summaries and DNS visibility |
 | [Ubuntu Server Home Lab](https://github.com/Json8913/ubuntu-homelab-security) | Read-only Linux baseline checks and documented limits |
